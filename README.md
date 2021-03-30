@@ -1,4 +1,4 @@
-# tensorflow_notes_tests
+# Tensorflow Notes and Tests
 
 Every tensorflow code extracted from a video or book should be loaded on this repository
 
